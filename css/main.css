@@ -55,6 +55,17 @@ h1, .keyboard{
     position: relative;
 }
 
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#000000; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
+
 /* animation */
 .key {
     display: inline-block;
